@@ -8,6 +8,12 @@
     background-color: rgb(34, 34, 95);
 }
 
+.buttons {
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+}
+
 .card {
     margin: 20px;
 }
