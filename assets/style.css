@@ -1,0 +1,13 @@
+.header {
+    color: white;
+    height: 200px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(34, 34, 95);
+}
+
+.card {
+    margin: 20px;
+}
